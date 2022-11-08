@@ -178,7 +178,5 @@ fn main(){
     let b = make_nothing2();
     println!("{:?} {:?}", a, b);
 }
-    
-}
 ```
 
